@@ -24,3 +24,7 @@ p {
     text-align: left;
     color: rgb(255, 255, 0);
 }
+.credits {
+    background-color: black;
+    color: white;
+}
